@@ -70,7 +70,7 @@ export function Footer() {
         </div>
         <div className="footer-bottom">
           <span>© 2026 Hệ thống từ thiện Fly To Sky.</span>
-          <span>Lan tỏa yêu thương, kết nối cộng đồng.</span>
+          <span>Lan tỏa yêu thương và kết nối tới cộng đồng.</span>
         </div>
       </div>
     </footer>
